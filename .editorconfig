@@ -1,0 +1,6 @@
+root = true
+
+# [*] serve pra falar que esse bloco de código vai servir pra todos os arquivos
+[*] 
+indent_style = space
+indent_size = 2
